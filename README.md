@@ -52,7 +52,12 @@
 <b>COMPOSITING<b> 
   ---
   ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/after_effects.png)
-  
+</br>
+
+<b>SOUND DESIGN<b> 
+  ---
+  ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/reaper.png)
+  ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/wwise.png)
 </p>
 
 </br>
