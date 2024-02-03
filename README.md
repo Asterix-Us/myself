@@ -6,6 +6,8 @@
 
 <b>EXPERIENCED<b>
   ---
+  ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/blender.png)
+
 
 </br>
   
