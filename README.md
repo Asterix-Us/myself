@@ -10,7 +10,9 @@
   ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/maya.png)
   ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/houdini.png)
   ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/zbrush.png)
-
+  ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/photoshop.png)
+  ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/painter.png)
+  ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/designer.png)
 </br>
   
   
