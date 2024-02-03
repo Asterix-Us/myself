@@ -40,6 +40,7 @@
   ---
   ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/maya.png)
   ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/blender.png)
+  ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/python.png)
 </br>
 
 <b>VFX<b>
