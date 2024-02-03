@@ -6,8 +6,8 @@
 
 <b>MODELLING<b>
   ---
-  - [Autodesk Maya](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/maya.png)
-  - [Blender](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/blender.png)
+  - ![Autodesk Maya](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/maya.png)
+  - ![Blender](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/blender.png)
 </br>
   
 <b>VERSION CONTROL<b>
