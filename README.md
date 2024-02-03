@@ -4,21 +4,19 @@
 
 </br>
 
-<b>EXPERIENCED<b>
+<b>MODELLING<b>
   ---
-  ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/blender.png)
-  ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/maya.png)
-  ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/houdini.png)
+  - Autodesk Maya ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/maya.png)
+  - Blender ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/blender.png)
+</br>
+  
+<b>PROFICIENT<b> 
+  ---
+   ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/houdini.png)
   ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/zbrush.png)
   ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/photoshop.png)
   ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/painter.png)
   ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/designer.png)
-</br>
-  
-  
-<b>PROFICIENT<b> 
-  ---
- 
 </br>
   
 <b>ENTRY-LEVEL<b>
