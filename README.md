@@ -8,6 +8,16 @@
   ---
   ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/maya.png)
   ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/blender.png)
+  ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/zbrush.png)
+</br>
+
+<b>TEXTURING<b>
+  ---
+  ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/photoshop.png)
+  ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/painter.png)
+  ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/marmoset.png)
+  ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/designer.png)
+  ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/3dcoat.png)
 </br>
   
 <b>VERSION CONTROL<b>
@@ -25,20 +35,9 @@
   ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/visual_studio.png)
 </br>
 
-<b>PROFICIENT<b> 
+<b>COMPOSITING<b> 
   ---
-   ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/houdini.png)
-  ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/zbrush.png)
-  ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/photoshop.png)
-  ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/painter.png)
-  ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/designer.png)
-  ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/3dcoat.png)
   ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/after_effects.png)
-  ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/marmoset.png)
-</br>
-  
-<b>ENTRY-LEVEL<b>
----
   
 </p>
 
