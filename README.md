@@ -47,6 +47,7 @@
   ---
   ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/houdini.png)
   ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/unreal_just_logo.png)
+  ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/embergen.png)
 </br>
 
 <b>COMPOSITING<b> 
