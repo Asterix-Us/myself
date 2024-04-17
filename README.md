@@ -19,11 +19,13 @@
   ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/perforce.png)
 </br>
 
-<b>MODELLING<b>
+<b>MODELING<b>
   ---
   ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/maya.png)
   ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/blender.png)
   ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/zbrush.png)
+  ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/rizom_uv.png)
+  ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/speedtree.png)
   ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/houdini.png)
 </br>
 
