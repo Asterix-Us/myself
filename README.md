@@ -4,7 +4,7 @@
 
 </br>
 
-<b>CODING<b>
+<b>PROGRAMMING<b>
   ---
   ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/c++.png)
   ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/python.png)
@@ -19,7 +19,7 @@
   ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/perforce.png)
 </br>
 
-<b>MODELING<b>
+<b>3D MODELING<b>
   ---
   ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/maya.png)
   ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/blender.png)
@@ -35,7 +35,6 @@
   ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/painter.png)
   ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/marmoset.png)
   ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/designer.png)
-  ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/3dcoat.png)
 </br>
 
 <b>RIGGING & ANIMATION<b>
@@ -50,11 +49,6 @@
   ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/houdini.png)
   ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/unreal_just_logo.png)
   ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/embergen.png)
-</br>
-
-<b>COMPOSITING<b> 
-  ---
-  ![](https://github.com/Asterix-Us/Asterix-Us/blob/main/photos/after_effects.png)
 </br>
 
 <b>AUDIO<b> 
